@@ -69,15 +69,13 @@ pnpm dev
 ## 碎碎念
 
 >从一个未接触过前端、看不懂文档的小白, 到能自定义一个博客, 这一路真的很惊奇。
->最开始是被 Jekyll 的亮眼和 Hexo 的花哨深深吸引住了, 于是跟着**搜索引擎**这个大师不断地摸索, 再站上 AI 的浪潮, 
->前前后后涉及了 [Jekyll](https://jekyllcn.com/docs/home/), [Hexo](https://hexo.io/zh-cn/), [Gitbook](https://www.gitbook.com/), [Vuepress](https://vuepress.vuejs.org/zh/), [Vitepress](https://vitepress.dev/zh/), [Astro](https://astro.build/), 入门了 Git, Html, Css, Js, Nodejs, Vue, Astro, Tailwind, Unocss (用啥学啥, 杂而不深，堪堪能用, 不过接触新技术挺令人兴奋的haha), 最后又回到了 Vitepress. 
->学业原因, 开发这个博客断断续续的 (其实本质上是对自己的博客修修补补), 所以总体时间跨度上有半年左右, 不过实现自己预想功能(折腾)的过程超级有趣的 ha~ha~.
+>体验过的一些常见的博客框架: [Jekyll](https://jekyllcn.com/docs/home/), [Hexo](https://hexo.io/zh-cn/), [Gitbook](https://www.gitbook.com/), [Vuepress](https://vuepress.vuejs.org/zh/), [Vitepress](https://vitepress.dev/zh/), [Astro](https://astro.build/), 入门了 Git, Html, Css, Js, Nodejs, Vue, Astro
 
 为什么选择 [vitepress](https://vitepress.dev/zh/) 呢? 
 - 一是, 功能丰富, 可定制性强, 相对 Jekyll, Gitbook 来说.
 - 二是, 轻便, 现代, 相比 Hexo 来说.
 - 三是, 它未来可期, 相比 Vuepress 来说, hahaha.
-- 四是, 它的构建产物是一个单页面应用`SPA`, 页面之间无缝切换, 这是相比 Astro 来说, 我更喜欢的一点. (其实是我还不会优化haha)
+- 四是, 它的构建产物是一个单页面应用`SPA`, 页面之间无缝切换, 这是相比 Astro 来说, 我更喜欢的一点, 但是初次加载确实不如 Astro 快
 
 
 ## 参考
